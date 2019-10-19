@@ -4,7 +4,7 @@ const navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-info text-light mb-3">
       <a className="navbar-brand" href="#">
-        Navbar
+        WHAT CHANGED?
       </a>
       <button
         className="navbar-toggler"
